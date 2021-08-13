@@ -1,0 +1,11 @@
+C:\Users\Mishanya\source\repos\TestBinaryBot\TestBinaryBot\bin\Debug\netcoreapp2.1\TestBinaryBot.deps.json
+C:\Users\Mishanya\source\repos\TestBinaryBot\TestBinaryBot\bin\Debug\netcoreapp2.1\TestBinaryBot.runtimeconfig.json
+C:\Users\Mishanya\source\repos\TestBinaryBot\TestBinaryBot\bin\Debug\netcoreapp2.1\TestBinaryBot.runtimeconfig.dev.json
+C:\Users\Mishanya\source\repos\TestBinaryBot\TestBinaryBot\bin\Debug\netcoreapp2.1\TestBinaryBot.dll
+C:\Users\Mishanya\source\repos\TestBinaryBot\TestBinaryBot\bin\Debug\netcoreapp2.1\TestBinaryBot.pdb
+C:\Users\Mishanya\source\repos\TestBinaryBot\TestBinaryBot\obj\Debug\netcoreapp2.1\TestBinaryBot.csprojAssemblyReference.cache
+C:\Users\Mishanya\source\repos\TestBinaryBot\TestBinaryBot\obj\Debug\netcoreapp2.1\TestBinaryBot.csproj.CoreCompileInputs.cache
+C:\Users\Mishanya\source\repos\TestBinaryBot\TestBinaryBot\obj\Debug\netcoreapp2.1\TestBinaryBot.AssemblyInfoInputs.cache
+C:\Users\Mishanya\source\repos\TestBinaryBot\TestBinaryBot\obj\Debug\netcoreapp2.1\TestBinaryBot.AssemblyInfo.cs
+C:\Users\Mishanya\source\repos\TestBinaryBot\TestBinaryBot\obj\Debug\netcoreapp2.1\TestBinaryBot.dll
+C:\Users\Mishanya\source\repos\TestBinaryBot\TestBinaryBot\obj\Debug\netcoreapp2.1\TestBinaryBot.pdb

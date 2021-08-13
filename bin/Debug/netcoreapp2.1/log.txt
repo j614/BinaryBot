@@ -1,0 +1,30 @@
+{"buy":{"balance_after":9977.4,"buy_price":0.69,"contract_id":125886924828,"longcode":"Win payout if AUD\/JPY is strictly higher than entry spot at 2 minutes after contract start time.
+","payout":1,"purchase_time":1625541054,"shortcode":"CALL_FRXAUDJPY_1.00_1625541054_1625541174_S0P_0","start_time":1625541054,"transaction_id":251188141408},
+"echo_req":{"buy":1,"parameters":{"amount":1,"app_markup_percentage":"0","basis":"payout","contract_type":"CALL","currency":"USD","duration":2,"duration_unit":"m","symbol":"frxAUDJPY"},"price":5},"msg_type":"buy"}
+сделка
+
+{"buy":{"balance_after":9976.79,"buy_price":0.61,"contract_id":125887242788,"longcode":"Win payout if EUR\/CAD is strictly higher than entry spot at 2 minutes after contract start time.","payout":1,"purchase_time":1625541252,"shortcode":"CALL_FRXEURCAD_1.00_1625541252_1625541372_S0P_0","start_time":1625541252,"transaction_id":251188778528},"echo_req":{"buy":1,"parameters":{"amount":1,"app_markup_percentage":"0","basis":"payout","contract_type":"CALL","currency":"USD","duration":2,"duration_unit":"m","symbol":"frxEURCAD"},"price":5},"msg_type":"buy"}
+
+сделка
+
+{"buy":{"balance_after":9976.2,"buy_price":0.59,"contract_id":125887659308,"longcode":"Win payout if EUR\/CAD is strictly higher than entry spot at 2 minutes after contract start time.","payout":1,"purchase_time":1625541503,"shortcode":"CALL_FRXEURCAD_1.00_1625541503_1625541623_S0P_0","start_time":1625541503,"transaction_id":251189611808},"echo_req":{"buy":1,"parameters":{"amount":1,"app_markup_percentage":"0","basis":"payout","contract_type":"CALL","currency":"USD","duration":2,"duration_unit":"m","symbol":"frxEURCAD"},"price":5},"msg_type":"buy"}
+
+сделка
+
+{"buy":{"balance_after":9976.57,"buy_price":0.63,"contract_id":125987225988,"longcode":"Win payout if EUR\/CAD is strictly higher than entry spot at 2 minutes after contract start time.","payout":1,"purchase_time":1625604685,"shortcode":"CALL_FRXEURCAD_1.00_1625604685_1625604805_S0P_0","start_time":1625604685,"transaction_id":251388560188},"echo_req":{"buy":1,"parameters":{"amount":1,"app_markup_percentage":"0","basis":"payout","contract_type":"CALL","currency":"USD","duration":2,"duration_unit":"m","symbol":"frxEURCAD"},"price":5},"msg_type":"buy"}
+
+сделка +07.07.2021 9:39:53
+
+{"buy":{"balance_after":9976.02,"buy_price":0.55,"contract_id":126046966588,"longcode":"Win payout if EUR\/CAD is strictly higher than entry spot at 2 minutes after contract start time.","payout":1,"purchase_time":1625639993,"shortcode":"CALL_FRXEURCAD_1.00_1625639993_1625640113_S0P_0","start_time":1625639993,"transaction_id":251507992408},"echo_req":{"buy":1,"parameters":{"amount":1,"app_markup_percentage":"0","basis":"payout","contract_type":"CALL","currency":"USD","duration":2,"duration_unit":"m","symbol":"frxEURCAD"},"price":5},"msg_type":"buy"}
+
+сделка +07.07.2021 10:16:22
+
+{"buy":{"balance_after":9975.48,"buy_price":0.54,"contract_id":126049142148,"longcode":"Win payout if AUD\/JPY is strictly higher than entry spot at 3 minutes after contract start time.","payout":1,"purchase_time":1625642183,"shortcode":"CALL_FRXAUDJPY_1.00_1625642183_1625642363_S0P_0","start_time":1625642183,"transaction_id":251512328968},"echo_req":{"buy":1,"parameters":{"amount":1,"app_markup_percentage":"0","basis":"payout","contract_type":"CALL","currency":"USD","duration":3,"duration_unit":"m","symbol":"frxAUDJPY"},"price":5},"msg_type":"buy"}
+
+сделка +07.07.2021 10:16:59
+
+{"buy":{"balance_after":9974.93,"buy_price":0.55,"contract_id":126049182028,"longcode":"Win payout if AUD\/USD is strictly higher than entry spot at 3 minutes after contract start time.","payout":1,"purchase_time":1625642221,"shortcode":"CALL_FRXAUDUSD_1.00_1625642221_1625642401_S0P_0","start_time":1625642221,"transaction_id":251512408948},"echo_req":{"buy":1,"parameters":{"amount":1,"app_markup_percentage":"0","basis":"payout","contract_type":"CALL","currency":"USD","duration":3,"duration_unit":"m","symbol":"frxAUDUSD"},"price":5},"msg_type":"buy"}
+
+сделка +07.07.2021 10:25:27
+
+{"buy":{"balance_after":9976.38,"buy_price":0.55,"contract_id":126049723368,"longcode":"Win payout if AUD\/USD is strictly higher than entry spot at 3 minutes after contract start time.","payout":1,"purchase_time":1625642728,"shortcode":"CALL_FRXAUDUSD_1.00_1625642728_1625642908_S0P_0","start_time":1625642728,"transaction_id":251513489228},"echo_req":{"buy":1,"parameters":{"amount":1,"app_markup_percentage":"0","basis":"payout","contract_type":"CALL","currency":"USD","duration":3,"duration_unit":"m","symbol":"frxAUDUSD"},"price":5},"msg_type":"buy"}
